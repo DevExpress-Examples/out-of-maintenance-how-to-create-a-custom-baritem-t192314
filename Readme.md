@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CustomBarElements.cs](./CS/WpfApplication1/CustomBarElements.cs) (VB: [CustomBarElements.vb](./VB/WpfApplication1/CustomBarElements.vb))
+* [MainWindow.xaml](./CS/WpfApplication1/MainWindow.xaml) (VB: [MainWindow.xaml.vb](./VB/WpfApplication1/MainWindow.xaml.vb))
+* [MainWindow.xaml.cs](./CS/WpfApplication1/MainWindow.xaml.cs) (VB: [MainWindow.xaml.vb](./VB/WpfApplication1/MainWindow.xaml.vb))
+<!-- default file list end -->
 # How to create a custom BarItem
 
 
