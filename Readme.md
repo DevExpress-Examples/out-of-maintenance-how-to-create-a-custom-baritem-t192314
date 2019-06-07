@@ -12,4 +12,4 @@
 
 <br/>
 
-Please refer to the [CustomBarElements.cs](CS/WpfApplication1/CustomBarElements.cs) file to learn how to cretae an register custom bar items.
+Please refer to the [CustomBarElements.cs](CS/WpfApplication1/CustomBarElements.cs) file to learn how to create an register custom bar items.
