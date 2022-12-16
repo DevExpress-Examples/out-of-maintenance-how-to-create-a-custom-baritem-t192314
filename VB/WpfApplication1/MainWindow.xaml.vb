@@ -1,26 +1,14 @@
-﻿Imports DevExpress.Xpf.Bars
-Imports System
-Imports System.Collections.Generic
-Imports System.Linq
-Imports System.Text
-Imports System.Threading.Tasks
 Imports System.Windows
 Imports System.Windows.Controls
-Imports System.Windows.Data
-Imports System.Windows.Documents
-Imports System.Windows.Input
-Imports System.Windows.Media
-Imports System.Windows.Media.Imaging
-Imports System.Windows.Navigation
-Imports System.Windows.Shapes
 
 Namespace WpfApplication1
-    Partial Public Class MainWindow
+
+    Public Partial Class MainWindow
         Inherits Window
 
         Public Sub New()
-            CustomBarElementsRegistrator.Register()
-            InitializeComponent()
+            Register()
+            Me.InitializeComponent()
         End Sub
     End Class
 End Namespace
